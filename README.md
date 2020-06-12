@@ -6,9 +6,9 @@ Aplikasi ini dibuat mengingat dalam suatu event baik skala kecil maupun besar di
 
 Adapun fitur pada aplikasi a-List yaitu:
 
-Pencatatan List Panitia
-Pencatatan Daftar Tugas Dalam Panitia
-Hapus
-Tambah List Panitia
-Edit
-Update Progress
+1. Pencatatan List Panitia
+2. Pencatatan Daftar Tugas Dalam Panitia
+3. Hapus
+4. Tambah List Panitia
+5. Edit
+6. Update Progress
